@@ -15,7 +15,7 @@ For a deep dive into the methodology, results, and insights, please refer to the
 ---
 
 ## 📂 **Repository Contents**
-- **Full Report**: [Read the Detailed Analysis](./Final_Mahmood.pdf)
+- **Full Report**: [Read the Detailed Analysis](./Unleashing_Horsepower.pdf)
 - **Data**: Raw and preprocessed data for exploration.
 - **Source Code**: R scripts for preprocessing, clustering, and model development.
 - **Visualizations**: Key scatterplots, boxplots, and residual analysis results.
@@ -28,13 +28,6 @@ For a deep dive into the methodology, results, and insights, please refer to the
 - Understand the clustering of vehicles into distinct categories like economy cars, luxury vehicles, and more.
 - Explore how machine learning models achieve **94.16% explained variance** in horsepower prediction.
 - Gain insights into practical business applications for vehicle design, optimization, and targeted marketing.
-
----
-
-## 🚀 **Quick Links**
-- [📄 Full Report (PDF)](./Final_Mahmood.pdf)
-- [📊 Visualizations](./figures/)
-- [🛠 Source Code](./src/)
 
 ---
 
